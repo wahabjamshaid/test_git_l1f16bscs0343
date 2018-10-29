@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 Name: wahab;-)
+=======
+Name:wahab;-)
+>>>>>>> c0fac31259ee26c37ccc06f3b9b1d4ddf72a8cf8
 Email:wahabjamshaid@yahoo.com
 Student At University Of Central Punjab 
